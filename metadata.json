@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Global Call",
+  "description": "Your ultimate communication companion. Experience high-quality WebRTC audio and video calls, real-time messaging, contact list management, and live user presence indicators.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
